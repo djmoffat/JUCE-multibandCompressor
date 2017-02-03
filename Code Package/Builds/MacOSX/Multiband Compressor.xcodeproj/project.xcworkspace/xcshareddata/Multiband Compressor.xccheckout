@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>159B4F57-58C0-4A37-A1C7-0E93E17A3857</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Multiband Compressor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F8F0C12-1082-40A5-88D6-60533CD5CCDA</key>
+		<string>https://github.com/djmoffat/MScCoursework.git</string>
+		<key>A5CE62D3-E464-4877-9C45-AAEEC0534197</key>
+		<string>git://github.com/julianstorer/JUCE.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>workspace/pluginV2/compressor/Builds/MacOSX/Multiband Compressor.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F8F0C12-1082-40A5-88D6-60533CD5CCDA</key>
+		<string>../../../../../../..</string>
+		<key>A5CE62D3-E464-4877-9C45-AAEEC0534197</key>
+		<string>../../../../../../../../../../../Applications/VST/JUCE</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/djmoffat/MScCoursework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F8F0C12-1082-40A5-88D6-60533CD5CCDA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A5CE62D3-E464-4877-9C45-AAEEC0534197</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JUCE</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F8F0C12-1082-40A5-88D6-60533CD5CCDA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MScCoursework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
